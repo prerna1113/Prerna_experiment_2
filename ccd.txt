@@ -1,4 +1,2 @@
-
-This is the MCA CCD branch file
+This is the MCA CCD branch
 This is the MCA_CCD branch file
-
